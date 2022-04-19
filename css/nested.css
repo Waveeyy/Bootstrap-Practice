@@ -1,0 +1,16 @@
+.col1 {
+  background-color: rgba(32, 31, 28, 0.452);
+  color: aliceblue;
+}
+.col2 {
+  background-color: rgba(52, 90, 100, 0.932);
+  color: aliceblue;
+}
+.nested-col-1 {
+  background-color: rgb(170, 185, 32);
+  color: rgb(8, 20, 180);
+}
+.nested-col-2 {
+  background-color: rgb(212, 32, 32);
+  color: rgb(8, 20, 180);
+}
